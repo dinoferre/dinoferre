@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- { “name” : “Dino Exequiel Ferré”,
+```shell
+{ “name” : “Dino Exequiel Ferré”,
    “role” : “Full Stack Developer”,
    “data” : 
      { 
@@ -8,5 +9,6 @@
       "Resume"   : "https://github.com/dinoferre",
       "IG"       : "https://www.instagram.com/dinoferre"
      }
- }
+}
+```
 
