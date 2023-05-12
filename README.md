@@ -1,7 +1,7 @@
 ### 👋
 
 ```shell
-{ “name” : “Dino Exequiel Ferré”,
+{  “name” : “Dino Exequiel Ferré”,
    “role” : “Full Stack Developer”,
    “data” : 
      { 
