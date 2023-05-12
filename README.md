@@ -5,9 +5,9 @@
    “role” : “Full Stack Developer”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/dinoferre/", 
-      "Resume"   : "https://github.com/dinoferre",
-      "IG"       : "https://www.instagram.com/dinoferre"
+      "Portfolio" : "https://github.com/dinoferre](https://dinoferre.github.io/Angular-Porfolio-Dino-Ferre",
+      "Linkedin"  : "https://www.linkedin.com/in/dinoferre", 
+      "IG"        : "https://www.instagram.com/dinoferre"
      }
 }
 ```
