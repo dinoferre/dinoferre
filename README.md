@@ -21,9 +21,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white">
-   <img src="https://img.shields.io/badge/A--Frame-ef2d5e?style=for-the-badge&logo=aframe&logoColor=white">
+  <img src="https://img.shields.io/badge/A--Frame-ef2d5e?style=for-the-badge&logo=aframe&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/AR.js-FF4654?style=for-the-badge&logo=ar.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
+  <img src="https://img.shields.io/badge/mind.ar-FF8C00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 </p>
 
 <h4>Backend</h4>
@@ -47,5 +51,3 @@
   <img src="https://img.shields.io/badge/Render-277A9F?style=for-the-badge&logo=render&logoColor=white" alt="Render">
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </p>
-
-
