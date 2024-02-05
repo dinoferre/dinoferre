@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Spark_AR-FFD800?style=for-the-badge&logo=spark-ar&logoColor=black">
 </p>
 
 <h4>Backend</h4>
