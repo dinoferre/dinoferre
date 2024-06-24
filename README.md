@@ -5,7 +5,7 @@
   "name": "Dino Exequiel Ferré",
   "role": "Full Stack Developer",
   "data": {
-    "Portfolio": https://dinoferre.github.io/Portfolio-Angular](https://dinoferre.github.io/reactPortfolio,
+    "Portfolio": https://dinoferre.github.io/reactPortfolio,
     "Linkedin": https://www.linkedin.com/in/dinoferre,
     "IG": https://www.instagram.com/dinoferre
   }
