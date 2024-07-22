@@ -3,7 +3,7 @@
 ```shell
 { 
   "name": "Dino Exequiel Ferré",
-  "role": "Software & Game Developer",
+  "role": "Full Stack Developer",
   "data": {
     "Portfolio": https://dinoferre.github.io/reactPortfolio,
     "Linkedin": https://www.linkedin.com/in/dinoferre,
